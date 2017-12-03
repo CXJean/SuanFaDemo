@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="progressColor">#CC0033</color>
+    <color name="progressColorBlue">#3366FF</color>
+    <color name="progressColorGreen">#66FF33</color>
+    <color name="progressColorOrange">#f5782a</color>
+    <color name="unprogressColorG">#cbcbcb</color>
+    <color name="textColor">#fd1f01</color>
+    <color name="lixitextColor">#c2bebe</color>
+    <color name="titleColor">#000000</color>
+    <color name="bgColor">#f3f3f3</color>
+    <color name="xbgColor">#fdfdfe</color>
+    <color name="titleBarColor">#ccc</color>
+
+    <color name="editMoneyColor">#58ac16</color>
+
+
+</resources>
